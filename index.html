@@ -243,12 +243,22 @@
         </fieldset>
       </div>
      <label for="story">Any additional comments?</label>
-
-    <textarea id="story" name="story"
+      <p></p>
+     <textarea id="story" name="story"
               rows="5" cols="33">
-    Please begin typing here...
+    Please remove this text and begin typing here...
     </textarea>
-        
+      <p></p>
+    <label for="toppings">Choose your favorite pizza topping:</label>
+    <input list="toppings" id="toppings" name="toppings" />
+
+    <datalist id="toppings">
+        <option value="Pepperoni">
+        <option value="Pineapple">
+        <option value="Olive">
+        <option value="Basil">
+        <option value="Onion">
+    </datalist>
     </form>
     
     
