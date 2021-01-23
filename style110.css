@@ -6,6 +6,10 @@
 
 h1, h2 { text-decoration: underline; }
 ul li {list-style-type: circle; }
+header > p {color: blue}
+section ~ aside {color: green}
+li + li {color: #FF1493}
+
 
 picture {
   height: 200px;
@@ -19,6 +23,7 @@ a:hover {
 a:active {
   color: yellow;
 }
+
 
 input[type=email] {
   width: 150px;
@@ -43,7 +48,7 @@ input[type=email] {
   
 }
 
-#secret-message{
+div.secret{
   color: #fff;
   border-style: dotted;
   border-color: hsl(36, 100%, 50%);
@@ -57,7 +62,7 @@ h3{
 }
 
 .formAJ{
-  color: red;
+  color: green;
 }
 /* This is a comment*/
 
