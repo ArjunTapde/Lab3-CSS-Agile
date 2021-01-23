@@ -53,7 +53,7 @@ div.secret{
   border-color: hsl(36, 100%, 50%);
   border-width: thick;
   border-radius: 10px;
-  margin: 25px 125px 100px 50px;
+  margin: 25px 10px 100px 50px;
   padding: 3in 2cm 300px 400px; /* 3 examples of abs lengths */
 }
 
@@ -62,7 +62,7 @@ h3{
 }
 
 .formAJ{
-  color: red;
+  color: green;
 }
 /* This is a comment*/
 
