@@ -1,7 +1,7 @@
 body{background-color: #add8e6;}
 
-#toppingschoice{
-  background-color: rgb(50, 200, 200);
+#email{
+  text-align: center;
 }
 
 .formAJ{
@@ -10,5 +10,5 @@ body{background-color: #add8e6;}
 /* This is a comment*/
 
 *{
-  font-family: "Times New Roman", Times, monospace;
+  /*font-family: "Times New Roman", Times, monospace;*/
 }
