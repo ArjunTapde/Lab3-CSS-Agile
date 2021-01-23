@@ -87,17 +87,12 @@ h3{
 }
 
 
-
-
-div.flexbox{
-  border: 1px solid black;
-}
-
 .boxer {
+  border: 1px solid black;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 
 .cap {
