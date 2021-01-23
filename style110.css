@@ -11,11 +11,11 @@ picture{
 }
 
 a:hover {
-  color: red;
+  color: green;
 }
 
 a:active {
-  color: green;
+  color: yellow;
 }
 
 #special-div{
