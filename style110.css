@@ -97,11 +97,11 @@ h3{
 
 .cap {
   flex-grow: 1;
-  height: 100px;
+  height: 200px;
 }
 
 .cap + .cap {
-  margin-left: 2%;
+  margin-left: 4%;
 }
 
 
