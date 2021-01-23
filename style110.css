@@ -26,7 +26,7 @@ picture{
   margin-right: 125px;
   padding-top: 50px;
   padding-bottom: 100px;
-  padding-left: 25px;
+  /*padding-left: 25px;*/
   padding-right: 50px;
   
 }
@@ -37,7 +37,7 @@ picture{
   border-color: hsl(36, 100%, 50%);
   border-width: thick;
   border-radius: 10px;
-  margin: 10px 20px 30px 40px;
+  margin: 25px 125px 100px 50px;
 }
 
 h3{
