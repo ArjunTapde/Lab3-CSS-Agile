@@ -87,6 +87,10 @@ h3{
   font-family: Verdana;
 }
 
+div.flexbox{
+  border: 1px solid black;
+}
+
 .boxer {
   display: flex;
   flex-direction: row;
