@@ -1,14 +1,14 @@
-body {background-color: #F79090;}
+body{background-color: #F79090;}
 
 #toppingschoice{
   background-color: rgb(50, 200, 200);
 }
 
-.formAJ {
+.formAJ{
   color: green;
 }
 /* This is a comment*/
 
-* {
+*{
   font-family: "Times New Roman", Times, monospace;
 }
