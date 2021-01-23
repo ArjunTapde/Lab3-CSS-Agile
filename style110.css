@@ -12,8 +12,8 @@ li + li {color: #FF1493}
 
 
 picture {
-  height: 200px;
-  width: 200px;
+  height: 50%;
+  width: 100%;
 }
 
 a:hover {
