@@ -10,8 +10,13 @@ picture{
   width: 200px;
 }
 
+a:hover {
+  color: red;
+}
 
-
+a:active {
+  color: green;
+}
 
 #special-div{
   color: rgb(177, 156, 217);
