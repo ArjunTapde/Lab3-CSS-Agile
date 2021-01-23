@@ -5,11 +5,17 @@
 }
 
 h1, h2 { text-decoration: underline; }
-ul li {list-style-type: circle; }
+ul li {
+  list-style-type: circle; 
+  display: inline-block;
+}
 header > p {color: blue}
 section ~ aside {color: green}
 li + li {color: #FF1493}
 
+footer {
+  display: none;
+}
 
 a:hover {
   color: green;
@@ -61,7 +67,7 @@ h3{
 }
 
 .formAJ{
-  color: green;
+  color: red;
 }
 /* This is a comment*/
 
