@@ -1,3 +1,9 @@
+@media only screen and (max-width: 750px) {
+  body {
+    background-color: hsla(319, 64%, 87%, 0.5);
+  }
+}
+
 #special-div{
   color: rgb(177, 156, 217);
   text-align: center;
