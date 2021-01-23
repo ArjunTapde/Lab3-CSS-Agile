@@ -7,7 +7,9 @@
   border-radius: 15px;
 }
 
-
+h3{
+  color: rgba(253, 227, 167, 1);
+}
 
 .formAJ{
   color: green;
