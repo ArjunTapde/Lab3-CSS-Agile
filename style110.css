@@ -25,9 +25,8 @@ a:active {
 }
 
 
-input[type=email] {
-  width: 150px;
-  transition: ease-in-out, width .50s ease-in-out;
+a[href] {
+  font-style: italic;
 }
 
 #special-div{
