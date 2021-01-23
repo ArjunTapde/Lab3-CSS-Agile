@@ -80,3 +80,28 @@ h3{
 *{
   font-family: Verdana;
 }
+
+
+
+
+
+
+.griddy {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  grid-auto-rows: minmax(50px, auto);
+}
+
+.one {
+  grid-column: 1 / 2;
+  grid-row: 1;
+}
+.two {
+  grid-column: 1 / 3;
+  grid-row: 1 / 2;
+}
+.three {
+  grid-column: 1 / 4;
+  grid-row: 2 / 4;
+}
