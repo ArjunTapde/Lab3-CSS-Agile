@@ -1,6 +1,4 @@
-#email{
-  text-align: center;
-}
+
 
 .formAJ{
   color: green;
@@ -8,5 +6,5 @@
 /* This is a comment*/
 
 *{
-  /*font-family: "Times New Roman", Times, monospace;*/
+  font-family: 'Roboto', Times, monospace;
 }
