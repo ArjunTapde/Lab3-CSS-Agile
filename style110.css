@@ -18,6 +18,11 @@ a:active {
   color: yellow;
 }
 
+input[type=email] {
+  width: 150px;
+  transition: ease-in-out, width .50s ease-in-out;
+}
+
 #special-div{
   color: rgb(177, 156, 217);
   text-align: center;
