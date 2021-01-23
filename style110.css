@@ -4,8 +4,9 @@
   }
 }
 
+h1, h2 { text-decoration: underline; }
 
-picture{
+picture {
   height: 200px;
   width: 200px;
 }
