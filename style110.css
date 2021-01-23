@@ -5,6 +5,7 @@
 }
 
 h1, h2 { text-decoration: underline; }
+ul li {list-style-type: circle; }
 
 picture {
   height: 200px;
