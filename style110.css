@@ -1,8 +1,17 @@
-@media only screen and (max-width: 750px) {
+@media only screen and (min-width: 750px) {
   body {
     background-color: hsla(319, 64%, 87%, 0.5);
   }
 }
+
+
+picture{
+  height: 200px;
+  width: 200px;
+}
+
+
+
 
 #special-div{
   color: rgb(177, 156, 217);
@@ -24,8 +33,11 @@
 
 #secret-message{
   color: #fff;
+  border-style: dotted;
+  border-color: hsl(36, 100%, 50%);
+  border-width: thick;
+  border-radius: 10px;
   margin: 10px 20px 30px 40px;
-  
 }
 
 h3{
