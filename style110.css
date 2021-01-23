@@ -81,7 +81,21 @@ h3{
   font-family: Verdana;
 }
 
+.boxer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
 
+.cap {
+  flex-grow: 1;
+  height: 100px;
+}
+
+.cap + .cap {
+  margin-left: 2%;
+}
 
 
 
