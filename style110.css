@@ -86,6 +86,9 @@ h3{
   font-family: Verdana;
 }
 
+
+
+
 div.flexbox{
   border: 1px solid black;
 }
@@ -109,34 +112,36 @@ div.flexbox{
 
 
 
+
+
 .griddy {
   display: grid;
   grid-template-columns: 100px 100px 100px;
   grid-gap: 10px;
   background-color: #fff;
-  color: #444;
+  color: #222;
 }
 
 .one {
-  background-color: #444;
+  background-color: #222;
   color: #fff;
-  border-radius: 5px;
-  padding: 20px;
-  font-size: 150%;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 100%;
 }
 
 .two {
-  background-color: #444;
+  background-color: #222;
   color: #fff;
-  border-radius: 5px;
-  padding: 20px;
-  font-size: 150%;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 100%;
 }
 
 .three {
-  background-color: #444;
+  background-color: #222;
   color: #fff;
-  border-radius: 5px;
-  padding: 20px;
-  font-size: 150%;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 100%;
 }
