@@ -7,7 +7,7 @@
 h1, h2 { text-decoration: underline; }
 ul li {
   list-style-type: circle; 
-  display: inline;
+  display: block;
 }
 header > p {color: blue;}
 section ~ aside {color: green;}
