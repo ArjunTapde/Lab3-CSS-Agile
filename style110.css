@@ -66,8 +66,12 @@ div.secret{
 
 div.top{
   margin: auto;
+}
+
+h1{
   position: -webkit-sticky;
   position: sticky;
+  top: 10px;
 }
 
 h3{
