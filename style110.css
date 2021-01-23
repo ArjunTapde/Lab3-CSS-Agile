@@ -9,9 +9,9 @@ ul li {
   list-style-type: circle; 
   display: inline-block;
 }
-header > p {color: blue}
-section ~ aside {color: green}
-li + li {color: #FF1493}
+header > p {color: blue;}
+section ~ aside {color: green;}
+li + li {color: #FF1493;}
 
 footer {
   display: none;
@@ -45,9 +45,9 @@ a[href] {
   padding-bottom: 2em;
   padding-left: 10em;
   padding-right: 50px;
-  height = 20%
-  width = 20%
-  
+  height = 20%;
+  width = 20%;
+  position = static;
 }
 
 div.secret{
@@ -62,12 +62,18 @@ div.secret{
   min-width: 75%;
 }
 
+div.top{
+  margin: auto;
+  position: -webkit-sticky;
+  position: sticky;
+}
+
 h3{
   color: rgba(235, 151, 78, 1);
 }
 
 .formAJ{
-  color: red;
+  color: yellow;
 }
 /* This is a comment*/
 
